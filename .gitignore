@@ -36,18 +36,3 @@ build/
 
 # Asset cache
 assets/cache/
-
-# Expo generated assets
-assets/adaptive-icon.png
-assets/favicon.png
-assets/icon.png
-assets/splash-icon.png
-assets/videos/
-assets/music/
-assets/images/Blogs/
-assets/images/banners/
-assets/images/icons/
-assets/images/default-avatar.png
-assets/images/homebg1.webp
-assets/default-avatars/
-assets/sounds/
