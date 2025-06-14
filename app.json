@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "DreamApp",
+    "slug": "DreamApp",
+    "scheme": "dreamapp",
+    "owner": "ahmed_ehtesam",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.apex.dream"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-video"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7b8010b5-4196-4eff-9edd-3bdeaed29a82"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/7b8010b5-4196-4eff-9edd-3bdeaed29a82"
+    },
+    "doctor": {
+      "reactNativeDirectoryCheck": false
+    }
+  }
+}
